@@ -6,7 +6,7 @@ Thanks for the opportunity
 
 PHP UNIT TESTING RESULTS
 
-[birobit@ip-172-31-22-217 challenge]$ ./phpunit challengeTest.php
+challenge]$ ./phpunit challengeTest.php
 <pre><h1>RANDOM FIVE CARDS ARE</h1><br/>Array
 (
     [0] => Qd
@@ -43,4 +43,4 @@ Failed asserting that two strings are equal.
 
 FAILURES!
 Tests: 3, Assertions: 3, Failures: 1.
-[birobit@ip-172-31-22-217 challenge]$
+challenge]$
